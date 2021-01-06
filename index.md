@@ -1,6 +1,7 @@
 ## Welcome to my GitHub Page!
 
 I'm a Third Year CSE student at UCSD who's *pretty* bad at this whole computer science thingy.
+
 In the words of Gary Gillespie:
 >Download my wine app
 
@@ -13,4 +14,4 @@ My top 3 favorite things to do in my free time are
 
 Click [here](https://j1chou.github.io/) to go to this same web site again
 
-Shoutouts to @PlayerOneCoffee for sustaining my operations
+Shoutouts to @PlayerOneCoffee for sustaining my operations :coffee:
