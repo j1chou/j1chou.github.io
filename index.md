@@ -9,7 +9,7 @@ My top 3 favorite things to do in my free time are
 2. Eat
 3. Procrastinate on assignments
 
-```
+
 Click [here](https://j1chou.github.io/) to go to this same web site again, and here is an ![irrelvant xkcd](https://imgs.xkcd.com/comics/depth_and_breadth.png)
-```
+
 Shoutouts to @PlayerOneCoffee for sustaining my operations
