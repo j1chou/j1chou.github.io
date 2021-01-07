@@ -1,6 +1,3 @@
-layout: page
-title: "Markdown Demo"
-permalink: https://j1chou.github.io/markdown
 
 ## This is the demo for markdown!
 
