@@ -13,7 +13,7 @@ I'm a **Third Year** CSE student at UCSD who's *pretty* bad at this whole comput
 Click [here](https://j1chou.github.io/) to go back to the main page
 
 #### Section Links 
-Click [here](https://github.com/j1chou/j1chou.github.io/new/main#links) to go back to Links section
+Click [here](https://github.com/j1chou/j1chou.github.io/blob/main/markdown.md#links) to go back to Links section
 
 #### Relative Links
 [(Ir)relevant xkcd:](/depth_and_breadth.png)
